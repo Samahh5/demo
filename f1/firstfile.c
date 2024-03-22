@@ -1,4 +1,4 @@
-include(stdio.h)
+#include(stdio.h)
   voidmain()
 { 
   printf("hello world");
